@@ -1,0 +1,15 @@
+{
+  "name": "laboppgave-9-threejs",
+  "version": "1.0.0",
+  "description": "Laboppgave 9 i DAT-200, three.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Otto André Haaland",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
